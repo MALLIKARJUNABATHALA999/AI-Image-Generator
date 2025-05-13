@@ -23,6 +23,7 @@ Built with:
 ```bash
 git clone https://github.com/your-username/huggingface-frontend-playground.git
 cd huggingface-frontend-playground
+```
 ![Ai_Imagegenerator_frontend](https://github.com/user-attachments/assets/9bbcd690-d919-4772-9e63-f705885a14b1)
 ![ai_image_generator_models](https://github.com/user-attachments/assets/5ca1bba7-74fe-40d0-bc52-4f34b850caa0)
 ![ai_image_generator_interfac](https://github.com/user-attachments/assets/3f71d652-3c56-4584-b59d-4c1f2cc15da0)
